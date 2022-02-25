@@ -33,7 +33,7 @@ sv.game.extras.max		25
 
 ;sv.masterserver.conf 		name master.openparsec.com interval 5
 ;sv.masterserver.conf 		name 192.168.1.103 interval 5
-;sv.masterserver.sendheartbeat	1
+sv.masterserver.sendheartbeat	0
 ;sv.masterserver.sendheartbeat	1
 
 ;eof
